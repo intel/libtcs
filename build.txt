@@ -1,0 +1,11 @@
+========================
+BUILD HOW TO
+========================
+
+1. BUILD HOST LIBS/EXE
+-----------------------
+To build host binaries and libraries, add tcs_host=true to your build command
+
+2. BUILD TESTU
+-----------------------
+To build testu binaries, add tcs_testu=true to your build command
